@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Gruppo&display=swap");
+
+body {
+  margin: 0;
+  font-family: "Gruppo", cursive;
+  padding: 20px 40px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: "Gruppo", cursive;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
